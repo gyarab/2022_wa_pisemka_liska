@@ -1,0 +1,14 @@
+.hero{
+    height: 200px;
+    background-image: url(pixelsort.jpg);
+    background-size: cover;
+    background-position: 50%  90%;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
+}
